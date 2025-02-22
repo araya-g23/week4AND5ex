@@ -34,8 +34,9 @@ cout << message << "{";
   for (it = number.cbegin(); it != number.cend(); it++) {
     if (it!=number.cbegin()) {
       cout << ", ";
-      cout << *it;
     }
+    cout << *it;
+
   }
   cout << "}" << endl;
 
