@@ -1,0 +1,3 @@
+C:/Users/araya/OneDrive - Dundalk Institute of Technology/C++/week4ex/cmake-build-debug/CMakeFiles/week4ex.dir
+C:/Users/araya/OneDrive - Dundalk Institute of Technology/C++/week4ex/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/araya/OneDrive - Dundalk Institute of Technology/C++/week4ex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
